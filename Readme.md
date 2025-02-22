@@ -4,7 +4,7 @@ Ayirbasta backend is built with **Node.js**, **Express**, and **MongoDB**. It pr
 
 The Ayirbasta frontend is built with **React.js**, enabling users to interact with the platform through a modern and responsive web interface.
 
-## 🚀 Tech Stack (Backend)
+## Tech Stack (Backend)
 
 - **Runtime:** Node.js
 - **Framework:** Express.js
@@ -16,7 +16,7 @@ The Ayirbasta frontend is built with **React.js**, enabling users to interact wi
   - cors (Cross-Origin Resource Sharing)
   - helmet (HTTP headers security)
 
-## 💡 Why MERN Stack?
+## Why MERN Stack?
 
 The **MERN stack** (MongoDB, Express, React, Node.js) was chosen for the Ayirbasta project for the following reasons:
 
@@ -52,11 +52,10 @@ This combination allows for full-stack JavaScript development, enabling **smooth
 
 Create a `.env` file in the root directory with the following content:
 
-```env
+/.env
 MONGO_URI=mongodb+srv://alibi:1234@cluster0.gg1ix.mongodb.net/assignment3?retryWrites=true&w=majority
 PORT=8080
 JWT_SECRET=your_jwt_secret_key
-```
 
 ## 🛠 Setup & Installation
 
